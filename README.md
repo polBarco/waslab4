@@ -2,8 +2,8 @@
 
 Students:
 
-* Surname_1, First_name_1
+* Barco, Pol
 
-* Surname_2, First_name_2
+* Cao, Huiwen
 
 Our webapp @ Heroku (task #6): <http://********.herokuapp.com>
